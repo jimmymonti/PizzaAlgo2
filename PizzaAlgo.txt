@@ -1,1 +1,5 @@
-PizzaAlgo
+Choose where to order from
+Call the Establishment
+Place the order
+Pay for the order
+Pick it up
